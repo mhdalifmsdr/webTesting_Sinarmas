@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_More about us_fab fa-twitter</name>
+   <tag></tag>
+   <elementGuidId>d90c5843-8bc3-4817-8c43-b340c44f4d7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fab.fa-twitter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/main/section/div/div/div/div[2]/a[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-twitter</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/main[@class=&quot;animated fadeIn&quot;]/section[@class=&quot;d-none d-lg-block cover-full-top cover-hero-wrapper gbi--1653660920-mRM3Rm8F1KZoA79wbJzNd6 gatsby-image-wrapper&quot;]/div[@class=&quot;react-parallax parallax&quot;]/div[@class=&quot;react-parallax-content&quot;]/div[@class=&quot;cover-hero d-flex align-items-center&quot;]/div[@class=&quot;cover-hero-social&quot;]/a[@class=&quot;gtm-twitter&quot;]/i[@class=&quot;fab fa-twitter&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/main/section/div/div/div/div[2]/a[2]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+   </webElementXpaths>
+</WebElementEntity>
